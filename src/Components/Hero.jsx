@@ -14,7 +14,7 @@ const Hero = () => {
   <div>Hello</div>
   <div>Hello</div>
   <div>Class</div>
-  <div>Based</div>
+ <div>Nothin but i made some changes</div>
   </>
   )
 }
